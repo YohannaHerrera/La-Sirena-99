@@ -1,0 +1,40 @@
+body {
+	background-color: lightblue;
+}
+
+.enlaces {
+	background-color: rgb(215, 226, 240);
+	font-size: 21px;
+}
+
+#busca,.video{
+	text-align: right;
+}
+
+
+.Más {
+	background-color: rgb(243, 239, 12);
+}
+
+h2{
+	text-align: center;
+	background-color: rgb(98, 98, 253);
+}
+
+p{
+	font-family:'Times New Roman';
+	font-size: 15px;
+	text-align: center;
+}
+
+.white {
+	background-color: antiquewhite;
+}
+
+#rosas {
+	font-family:'Times New Roman';
+}
+
+*{
+margin: 5Px;
+}
